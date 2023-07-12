@@ -4,7 +4,7 @@ A collection of 3D cards with hover effects.
 
 ## Demo
 
-![Demo](https://github.com/ersuheb/Web_Dev_Practice/assets/81223989/c917ea59-3027-40c2-81c9-a70d2f6ae9ca)
+![Click here!](https://github.com/ersuheb/Web_Dev_Practice/assets/81223989/c917ea59-3027-40c2-81c9-a70d2f6ae9ca)
 
 ## Features
 
