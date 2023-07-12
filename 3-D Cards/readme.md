@@ -9,4 +9,4 @@ A collection of 3D cards with hover effects.
 ## Features
 
 - Multiple card designs with 3D hover effects
-- Easy to customize and integrate into your projects
+- Easy to customize and integrate into projects
